@@ -14,6 +14,11 @@ https://dima1501.github.io/weather-widget-demo/index.html
 npm install
 ```
 
+### Note on Compatibility
+```
+Web Component mode does not support IE11 and below
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve

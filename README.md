@@ -7,9 +7,7 @@
 ```
 
 ### Demo
-```
-<https://dima1501.github.io/weather-widget-demo/index.html>
-```
+https://dima1501.github.io/weather-widget-demo/index.html
 
 ## Project setup
 ```

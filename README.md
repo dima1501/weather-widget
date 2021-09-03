@@ -15,10 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Generate web component
 ```
-npm run lint
+vue-cli-service build --target wc --inline-vue --name weather-widget src/App.vue
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

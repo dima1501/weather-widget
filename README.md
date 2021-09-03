@@ -1,5 +1,16 @@
 # weather-widget
 
+### Usage
+```
+<script src="https://dima1501.github.io/weather-widget-demo/weather-widget.min.js"></script>
+<weather-widget/>
+```
+
+### Demo
+```
+<a href="https://dima1501.github.io/weather-widget-demo/index.html"></a>
+```
+
 ## Project setup
 ```
 npm install

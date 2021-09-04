@@ -16,13 +16,11 @@ import {
   mapMutations,
 } from 'vuex';
 
+import VAutofocus from '@/directives/VAutofocus';
+
 export default {
   directives: {
-    autofocus: {
-      inserted(el) {
-        el.focus();
-      },
-    },
+    autofocus: VAutofocus,
   },
   computed: {
     newLocation: {
